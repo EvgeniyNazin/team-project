@@ -5,7 +5,7 @@
 Стёпкин Максим (разработчик) (в. 25)
 Тимофеев Денис (разработчик) (в. 86)
 
-Команда сборки: g++ main.cpp -o team-project && ./team-project
+Команда сборки: g++ main.cpp -o main.cpp&& ./team-project
 
 
 
